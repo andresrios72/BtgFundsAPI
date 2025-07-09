@@ -4,7 +4,7 @@ API REST en .NET 8 para la gestión de fondos de inversión, autenticación con 
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 👽 Tecnologías utilizadas
 
 - **.NET 8 Web API**
 - **MongoDB Atlas**
@@ -16,7 +16,7 @@ API REST en .NET 8 para la gestión de fondos de inversión, autenticación con 
 
 ---
 
-## 📦 Estructura del proyecto
+## 👽 Estructura del proyecto
 
 - `Controllers/`: Endpoints organizados por entidad (`UsersController`, `FundsController`, etc).
 - `Services/`: Lógica de negocio desacoplada.
@@ -28,7 +28,7 @@ API REST en .NET 8 para la gestión de fondos de inversión, autenticación con 
 
 ---
 
-## 🛠️ Configuración local
+## 👽 Configuración local
 
 1️⃣ **Requisitos:**
 - .NET 8 SDK
