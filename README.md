@@ -41,11 +41,11 @@ API REST en .NET 8 para la gestión de fondos de inversión, autenticación con 
 ```json
 {
   "MongoDB": {
-    "ConnectionString": "mongodb+srv://<usuario>:<password>@cluster0.hmlgof9.mongodb.net/btg_funds_db",
+    "ConnectionString": "mongodb+srv://andresrios72:pass******@cluster0.hmlgof9.mongodb.net/btg_funds_db",
     "DatabaseName": "btg_funds_db"
   },
   "Jwt": {
-    "Key": "<tu_clave_jwt>",
+    "Key": "clave_jwt*********",
     "Issuer": "BtgFundsApi",
     "Audience": "BtgFundsApiClient"
   }
