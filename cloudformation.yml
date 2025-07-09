@@ -1,0 +1,65 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Infraestructura para despliegue de BtgFundsApi con Docker en AWS
+
+Resources:
+
+  # Repositorio ECR
+  BtgFundsApiRepository:
+    Type: AWS::ECR::Repository
+    Properties:
+      RepositoryName: btgfundsapi
+
+  # Rol de servicio Elastic Beanstalk
+  ElasticBeanstalkServiceRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: ElasticBeanstalkServiceRole
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: elasticbeanstalk.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSElasticBeanstalkEnhancedHealth
+        - arn:aws:iam::aws:policy/service-role/AWSElasticBeanstalkService
+
+  # Aplicación Elastic Beanstalk
+  BtgFundsApiApp:
+    Type: AWS::ElasticBeanstalk::Application
+    Properties:
+      ApplicationName: BtgFundsApiApp
+      Description: Aplicación Elastic Beanstalk para BtgFundsApi en Docker
+
+  # Entorno Elastic Beanstalk
+  BtgFundsApiEnv:
+    Type: AWS::ElasticBeanstalk::Environment
+    Properties:
+      EnvironmentName: BtgFundsApiEnv
+      ApplicationName: !Ref BtgFundsApiApp
+      SolutionStackName: "64bit Amazon Linux 2023 v6.1.1 running Docker"
+      OptionSettings:
+        - Namespace: aws:autoscaling:launchconfiguration
+          OptionName: IamInstanceProfile
+          Value: aws-elasticbeanstalk-ec2-role
+        - Namespace: aws:elasticbeanstalk:environment
+          OptionName: ServiceRole
+          Value: !GetAtt ElasticBeanstalkServiceRole.Arn
+        - Namespace: aws:elasticbeanstalk:application:environment
+          OptionName: PORT
+          Value: "80"
+      VersionLabel: InitialVersion
+
+Outputs:
+  RepositoryUri:
+    Description: URI del repositorio ECR creado
+    Value: !GetAtt BtgFundsApiRepository.RepositoryUri
+
+  ElasticBeanstalkAppName:
+    Description: Nombre de la aplicación Elastic Beanstalk creada
+    Value: !Ref BtgFundsApiApp
+
+  ElasticBeanstalkEnvName:
+    Description: Nombre del entorno Elastic Beanstalk creado
+    Value: !Ref BtgFundsApiEnv

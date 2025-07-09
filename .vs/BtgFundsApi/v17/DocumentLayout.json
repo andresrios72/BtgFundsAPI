@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\middlewares\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\middlewares\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\middlewares\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\middlewares\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\controllers\\fundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\controllers\\fundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\Dockerrun.aws.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerrun.aws.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\cloudformation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cloudformation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\services\\fundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\services\\fundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\models\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\models\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}|BtgFundsApi\\BtgFundsApi.csproj|solutionrelative:btgfundsapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi.tests\\services\\fundservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|solutionrelative:btgfundsapi.tests\\services\\fundservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi.tests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|solutionrelative:btgfundsapi.tests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|solutionrelative:btgfundsapi.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|c:\\users\\andres\\documents\\andres rios\\requerimientos gft\\btgfundsapi\\btgfundsapi\\btgfundsapi.tests\\controllers\\fundcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95087307-F1F4-4621-9CAF-A07FB11A9777}|BtgFundsApi.Tests\\BtgFundsApi.Tests.csproj|solutionrelative:btgfundsapi.tests\\controllers\\fundcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BtgFundsApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T20:12:09.259Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BtgFundsApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\appsettings.json",
+              "RelativeToolTip": "BtgFundsApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T17:05:49.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Program.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Program.cs",
+              "RelativeToolTip": "BtgFundsApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:09:19.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Models\\User.cs",
+              "RelativeToolTip": "BtgFundsApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:30:39.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fund.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Models\\Fund.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Models\\Fund.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Models\\Fund.cs",
+              "RelativeToolTip": "BtgFundsApi\\Models\\Fund.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:22:14.822Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Models\\Transaction.cs",
+              "RelativeToolTip": "BtgFundsApi\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:31:25.149Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Services\\UserService.cs",
+              "RelativeToolTip": "BtgFundsApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:32:36.294Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FundService.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Services\\FundService.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Services\\FundService.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Services\\FundService.cs",
+              "RelativeToolTip": "BtgFundsApi\\Services\\FundService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:23:23.166Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Services\\TransactionService.cs",
+              "RelativeToolTip": "BtgFundsApi\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:33:07.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BtgFundsApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:51:05.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BtgFundsApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:24:01.23Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FundsController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\FundsController.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Controllers\\FundsController.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\FundsController.cs",
+              "RelativeToolTip": "BtgFundsApi\\Controllers\\FundsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:28:04.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "BtgFundsApi\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:20:00.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BtgFundsApi\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:38:34.391Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessRuleException.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Middlewares\\BusinessRuleException.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Middlewares\\BusinessRuleException.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Middlewares\\BusinessRuleException.cs",
+              "RelativeToolTip": "BtgFundsApi\\Middlewares\\BusinessRuleException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:01:35.482Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Middlewares\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi\\Middlewares\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\Middlewares\\NotFoundException.cs",
+              "RelativeToolTip": "BtgFundsApi\\Middlewares\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:01:18.361Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FundServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Services\\FundServiceTests.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi.Tests\\Services\\FundServiceTests.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Services\\FundServiceTests.cs",
+              "RelativeToolTip": "BtgFundsApi.Tests\\Services\\FundServiceTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:51:17.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi.Tests\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "BtgFundsApi.Tests\\Services\\UserServiceTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:56:37.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi.Tests\\Controllers\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeToolTip": "BtgFundsApi.Tests\\Controllers\\AuthControllerTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:53:21.991Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FundControllerTEst.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Controllers\\FundControllerTEst.cs",
+              "RelativeDocumentMoniker": "BtgFundsApi.Tests\\Controllers\\FundControllerTEst.cs",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi.Tests\\Controllers\\FundControllerTEst.cs",
+              "RelativeToolTip": "BtgFundsApi.Tests\\Controllers\\FundControllerTEst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:04:06.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BtgFundsApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\BtgFundsApi\\appsettings.Development.json",
+              "RelativeToolTip": "BtgFundsApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T09:17:48.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T04:31:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cloudformation.yml",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\cloudformation.yml",
+              "RelativeDocumentMoniker": "cloudformation.yml",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\cloudformation.yml",
+              "RelativeToolTip": "cloudformation.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-08T23:05:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerrun.aws.json",
+              "DocumentMoniker": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\Dockerrun.aws.json",
+              "RelativeDocumentMoniker": "Dockerrun.aws.json",
+              "ToolTip": "C:\\Users\\ANDRES\\Documents\\Andres Rios\\Requerimientos GFT\\BtgFundsApi\\BtgFundsApi\\Dockerrun.aws.json",
+              "RelativeToolTip": "Dockerrun.aws.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T22:48:10.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

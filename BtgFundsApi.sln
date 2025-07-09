@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtgFundsApi", "BtgFundsApi\BtgFundsApi.csproj", "{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtgFundsApi.Tests", "BtgFundsApi.Tests\BtgFundsApi.Tests.csproj", "{95087307-F1F4-4621-9CAF-A07FB11A9777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8A2909-F0F7-4B6F-85F7-7B7FD3C46B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95087307-F1F4-4621-9CAF-A07FB11A9777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95087307-F1F4-4621-9CAF-A07FB11A9777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95087307-F1F4-4621-9CAF-A07FB11A9777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95087307-F1F4-4621-9CAF-A07FB11A9777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A5E720F-BE3E-4A75-A853-145808F02A01}
+	EndGlobalSection
+EndGlobal
